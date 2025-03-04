@@ -49,7 +49,7 @@ To get started with these tutorials:
 1. Make sure you have Go installed on your system. Visit [golang.org](https://golang.org/dl/) for installation instructions.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/go-tutorials.git
+   git clone https://github.com/moule3053/go-tutorials.git
    ```
 3. Start with the [Introduction to Go](01-introduction-to-go.md) tutorial and progress through the list.
 
